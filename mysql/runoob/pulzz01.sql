@@ -1,0 +1,1 @@
+SELECT english, chinese, math FROM student2 WHERE class = 1719;

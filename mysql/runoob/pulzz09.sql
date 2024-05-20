@@ -1,0 +1,1 @@
+SELECT class, MIN(math) FROM student2 GROUP BY class;

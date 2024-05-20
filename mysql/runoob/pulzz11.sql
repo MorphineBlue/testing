@@ -1,0 +1,1 @@
+SELECT class, avg(math) FROM student2 GROUP BY class;

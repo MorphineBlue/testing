@@ -1,0 +1,2 @@
+-- 
+select * from emp where deptno = 30

@@ -1,0 +1,1 @@
+SELECT name, mobile from student2 WHERE english = 90 and math = 98;

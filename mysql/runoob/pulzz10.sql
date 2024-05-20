@@ -1,0 +1,1 @@
+SELECT class, SUM(math) FROM student2 GROUP BY class;

@@ -1,0 +1,1 @@
+UPDATE student2 set english = 60 WHERE english < 60;

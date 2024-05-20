@@ -1,0 +1,1 @@
+call show_table('hello, world');
